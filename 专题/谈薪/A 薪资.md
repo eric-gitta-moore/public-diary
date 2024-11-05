@@ -2,6 +2,8 @@
 
 ## 话术 1
 > ref: https://mp.weixin.qq.com/s/BPqyKAhhCsDer2zjhg3oXQ
+>
+> backup: https://web.archive.org/web/20241105080441/https://mp.weixin.qq.com/s/BPqyKAhhCsDer2zjhg3oXQ
 
 谈薪最重要的是手上要积攒筹码，就是多拿几个 offer，来证明你是同时被多家公司认可的，有筹码来能比较好的进一步谈，先亮筹码，再表忠心，最后说期望薪资。
 
